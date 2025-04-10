@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "664406668538",
+    "project_id": "carfy-34d1a",
+    "storage_bucket": "carfy-34d1a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664406668538:android:3a3f38689af3c08d130543",
+        "android_client_info": {
+          "package_name": "com.example.car_f_y"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjsloNd4i2Vc0mTG1uMVUYFsrR8PZUwYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664406668538:android:6ef70259d0a24ac8130543",
+        "android_client_info": {
+          "package_name": "com.example.cfy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjsloNd4i2Vc0mTG1uMVUYFsrR8PZUwYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
